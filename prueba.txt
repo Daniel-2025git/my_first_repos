@@ -1,2 +1,5 @@
 
 "Hola clase del curso Control de versiones con GIT"
+
+import pandas as pd
+pd.Series(np.random.rand(3), index = ['a','b','c'])
